@@ -1,0 +1,19 @@
+#body
+{
+
+    background-color: 333333;
+ 
+}
+#title
+{
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#text
+{
+    color: azure;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: small;
+
+}
